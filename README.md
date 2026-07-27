@@ -1,8 +1,8 @@
 # Family office hidden workforce
 
-A public research package mapping the roles, career paths, organizational functions, and trust-based hiring dynamics inside single-family offices, built from the documentary *I Investigated the Secret Industry That Manages Billionaires' Money*.
+A public research package mapping the roles, career paths, organizational functions, and trust-based hiring dynamics inside single-family offices built from the documentary *I Investigated the Secret Industry That Manages Billionaires' Money*.
 
-**Watch the documentary:** {{VIDEO_URL_NEEDED}}
+**Watch the documentary:** https://www.youtube.com/watch?v=t5H0eZaDkUQ
 
 **Canonical research page:** https://jessicamalnik.com/resources/family-office-hidden-workforce/
 
@@ -94,9 +94,7 @@ These figures require external source verification before publication as indepen
 
 ## Methodology
 
-This repository was built exclusively from the documentary transcript supplied by Jessica Malnik.
-
-No outside research was added.
+This repository was built exclusively from the documentary transcript and research supplied by Jessica Malnik.
 
 The data reflects:
 
@@ -105,8 +103,6 @@ The data reflects:
 - Career paths and institutions explicitly named.
 - Claims and estimates stated in the documentary.
 - Analytical conclusions presented by the documentary.
-
-This is not an exhaustive census of the family-office industry.
 
 ---
 
