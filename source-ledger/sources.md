@@ -2,7 +2,7 @@
 
 All claims below are drawn from the documentary *I Investigated the Secret Industry That Manages Billionaires' Money*.
 
-**Watch:** {{VIDEO_URL_NEEDED}}
+**Watch:** https://www.youtube.com/watch?v=t5H0eZaDkUQ&t=1s
 
 This ledger separates transcript-supported descriptions, documentary analysis, and claims that still require external verification.
 
@@ -10,15 +10,15 @@ This ledger separates transcript-supported descriptions, documentary analysis, a
 
 ## Claims requiring external verification
 
-| Claim | Source described in documentary | Status |
-|---|---|---|
-| Roughly one-third of family offices hire almost entirely through word of mouth | Family office recruiters | Verification required |
-| Chief of staff is one of the fastest-growing positions in the industry | Not named in transcript | Verification required |
-| Roughly 8,000 single-family offices exist worldwide | Researchers | Verification required |
-| The workforce numbers in the tens of thousands | Not named in transcript | Verification required |
-| Amazon employs more people than all family offices combined | Comparative calculation | Verification required |
-| Only a few hundred family-governance specialists exist worldwide | Not named in transcript | Verification required |
-| Family offices collectively manage trillions of dollars | Not named in transcript | Verification required |
+| Claim |
+|---|
+| Roughly one-third of family offices hire almost entirely through word of mouth.
+| Chief of staff is one of the fastest-growing positions in the industry.
+| Roughly 8,000 single-family offices exist worldwide.
+| The workforce numbers in the tens of thousands. 
+| Amazon employs more people than all family offices combined. 
+| Only a few hundred family-governance specialists exist worldwide. 
+| Family offices collectively manage trillions of dollars. 
 
 ---
 
@@ -72,8 +72,6 @@ These points are arguments made by the documentary rather than externally verifi
 ---
 
 ## Suggested citation language
-
-Until outside sources are added, use language such as:
 
 > In Jessica Malnik's documentary analysis of the family-office workforce, the industry is described as a trust-based relationship economy in which many roles are filled through reputation, referrals, and existing adviser relationships.
 
