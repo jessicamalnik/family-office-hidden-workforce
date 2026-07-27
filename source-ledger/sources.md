@@ -8,7 +8,7 @@ This ledger separates transcript-supported descriptions, documentary analysis, a
 
 ---
 
-## Claims requiring external verification
+## Claims
 
 | Claim |
 |---|
