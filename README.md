@@ -8,12 +8,23 @@ A public research package mapping the roles, career paths, organizational functi
 
 ---
 
+## Named family office index
+
+**214 named family offices — the largest free public list of its kind.**
+
+[`datasets/family-offices.csv`](datasets/family-offices.csv) — Single-family offices and multi-family offices drawn from Bloomberg, Forbes, SEC filings, Singapore MAS records, and public press across 30+ countries. Fields include office name, founding family or principal, headquarters, AUM estimate, founding year, source, and a confidence score (60+ = well-documented named entity; below 60 = family name confirmed but office entity name uncertain).
+
+Most named family office databases are paywalled or incomplete. This is the open version.
+
+---
+
 ## What this repository contains
 
 This repository turns the documentary into a structured reference for journalists, researchers, family-office professionals, candidates, and anyone trying to understand how ultra-wealthy families build private organizations around their money and lives.
 
 The core files include:
 
+- `datasets/family-offices.csv` — 214 named family offices from 30+ countries with sourcing and confidence scores.
 - `datasets/family-office-roles.csv` — 18 roles and functions named or directly supported by the documentary.
 - `datasets/career-proving-grounds.csv` — The institutions and career paths that commonly feed talent into family offices.
 - `datasets/family-office-functions.csv` — The operating functions handled inside a family office.
@@ -110,6 +121,7 @@ The data reflects:
 
 | File | Description |
 |---|---|
+| `datasets/family-offices.csv` | 214 named family offices with sourcing and confidence scores |
 | `datasets/family-office-roles.csv` | Roles, departments, and responsibilities |
 | `datasets/career-proving-grounds.csv` | Institutions and prior careers feeding the industry |
 | `datasets/family-office-functions.csv` | Financial and personal functions managed internally |
